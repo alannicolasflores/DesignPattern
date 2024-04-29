@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HKvy4g456YEuRI2IslbYRbx/QgooqxcQNqSGgb621rWX1ji5Jcauv1tGulHzzoVmyC/lfdXkkF9nIU4NOtnxnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALANS\\Downloads\\DesignPattern\\DesignPattern\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALANS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ALANS\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ALANS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
